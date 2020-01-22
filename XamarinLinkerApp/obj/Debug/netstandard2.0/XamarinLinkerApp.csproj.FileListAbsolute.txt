@@ -1,0 +1,14 @@
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\bin\Debug\netstandard2.0\XamarinLinkerApp.deps.json
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\bin\Debug\netstandard2.0\XamarinLinkerApp.dll
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\obj\Debug\netstandard2.0\XamarinLinkerApp.AssemblyInfoInputs.cache
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\obj\Debug\netstandard2.0\XamarinLinkerApp.AssemblyInfo.cs
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\bin\Debug\netstandard2.0\ref\XamarinLinkerApp.dll
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\bin\Debug\netstandard2.0\XamarinLinkerApp.pdb
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\obj\Debug\netstandard2.0\TestPage.xaml.g.cs
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\obj\Debug\netstandard2.0\XamarinLinkerApp.dll
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\obj\Debug\netstandard2.0\ref\XamarinLinkerApp.dll
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\obj\Debug\netstandard2.0\XamarinLinkerApp.pdb
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jeferrie\source\repos\XamarinLinkerApp\XamarinLinkerApp\obj\Debug\netstandard2.0\XamarinLinkerApp.csprojAssemblyReference.cache
