@@ -26,7 +26,9 @@ namespace XamarinLinkerApp
         {
             var builder = PublicClientApplicationBuilder
                 .Create(App.DefaultClientId)
-                .WithAuthority(new Uri(App.DefaultAuthority), false);
+                .WithAuthority(new Uri(App.DefaultAuthority), false)
+                //.WithB2CAuthority(App.DefaultAuthority)
+                .WithIosKeychainSecurityGroup("com.microsoft.adalcache");
 
             // Let Android set its own redirect uri
             switch (Device.RuntimePlatform)
